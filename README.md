@@ -29,5 +29,4 @@ This project focuses on developing a machine learning model to recognize static 
 1. **Indian Sign Language (ISL) Dataset**: [Kaggle ISL Dataset](https://www.kaggle.com/datasets/prathumarikeri/indian-sign-language-isl)
 2. **American Sign Language (ASL) Dataset**: [Kaggle ASL Dataset](https://www.kaggle.com/datasets/prathumarikeri/american-sign-language-09az)
 3. **TensorFlow Documentation**: [TensorFlow Image Classification](https://www.tensorflow.org/)
-4. **MobileNetV2 Architecture**: [MobileNetV2 Paper](https://arxiv.org/abs/1801.04381)
 ---
